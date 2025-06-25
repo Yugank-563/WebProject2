@@ -1,6 +1,6 @@
-# 🗨️Developer Community app
+# 🗨️. DevConnector app
 
-A full-stack Developer Community web application where users can create posts (text or image), add comments, and manage their content. Built using the MERN stack (MongoDB, Express.js, React.js, Node.js).
+A full-stack DevConnector web application where users can create posts (text or image), add comments, and manage their content. Built using the MERN stack (MongoDB, Express.js, React.js, Node.js).
 
 ## 🚀 Features
 
